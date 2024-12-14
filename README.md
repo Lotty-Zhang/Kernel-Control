@@ -13,7 +13,7 @@ All simulation codes are saved under “./basic/”:
 
 (4) “./basic/2D/” saves data and results.
 
-3. For 3D case,
+2. For 3D case,
    
 (1) “./basic/estimate_3D.py”: offline training.
 
