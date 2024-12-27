@@ -32,3 +32,13 @@ All codes for case study are saved under “./case_CFA/”:
 (3) “./case_CFA/utils_case/” saves utility functions.
 
 (4) “./case_CFA/case/” saves data and results.
+
+## Cite
+If you find this work useful, please cite:
+@article{zhang2024tensor,
+  title={Tensor-based Feedback Control for Locally Structured High-Dimensional Streaming Data Under Limited Control Capability},
+  author={Zhang, Z., Paynabar, K., and Shi, J.},
+  journal={IISE Transactions},
+  year={2024},
+  doi={10.1080/24725854.2024.2443959}
+}
