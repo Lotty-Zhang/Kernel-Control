@@ -37,9 +37,9 @@ All codes for case study are saved under “./case_CFA/”:
 If you find this work useful, please cite:
 >
 > ```
-> @article{zhang2024tensor,
+> @article{zhang2024tensorcontrollocalstructure,
 >   title={Tensor-based Feedback Control for Locally Structured High-Dimensional Streaming Data Under Limited Control Capability},
->   author={Zhang, Z., Paynabar, K., and Shi, J.},
+>   author={Zhang, Zihan, Paynabar, Kamran, and Shi, Jianjun},
 >   journal={IISE Transactions},
 >   year={2024},
 >   doi={10.1080/24725854.2024.2443959}
