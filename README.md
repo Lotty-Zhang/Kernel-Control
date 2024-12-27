@@ -1,5 +1,4 @@
-# Kernel-Control
-Codes for Paper "Tensor-based Feedback Control for Locally Structured High-dimensional Streaming Data under Limited Control Capability"
+# Codes for "Tensor-based Feedback Control for Locally Structured High-dimensional Streaming Data under Limited Control Capability"
 
 All simulation codes are saved under “./basic/”:
 
